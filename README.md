@@ -9,9 +9,7 @@
 <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>       <br>
 
-<a href="https://github.com/GabrieldsReis/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieldsReis&theme=tokyonight" />
-</a>
+
 <a href="https://github.com/GabrieldsReis/convoychat">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieldsReis&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
