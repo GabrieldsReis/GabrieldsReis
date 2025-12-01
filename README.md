@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <strong>Computer Science Student | Full Stack Developer</strong><br>
+  <strong>Information Systems Student | Full Stack Developer</strong><br>
   <i>"Turning coffee into code and ideas into reality"</i>
 </p>
 
